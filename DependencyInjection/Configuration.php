@@ -14,7 +14,7 @@ class Configuration implements ConfigurationInterface {
 
         $rootNode
             ->children()
-                ->scalarNode('key')->isRequired()->end()
+                ->scalarNode('key')->end()
             ->end()
         ;
 
