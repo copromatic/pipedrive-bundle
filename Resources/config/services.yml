@@ -1,0 +1,4 @@
+services:
+    pipedrive.client:
+        class: PipeDriveBundle\Services\PipeDriveClient
+        arguments: ['%pipedrive.key%']
