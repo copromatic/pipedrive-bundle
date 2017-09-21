@@ -3,7 +3,7 @@
   "type": "symfony-bundle",
   "description": "PipeDrive PHP API wrapped in bundle for Symfony2/3.",
   "keywords": ["Symfony3", "bundle", "pipedrive"],
-  "homepage": "https://github.com/touiliy/pipedrive-bundle",
+  "homepage": "https://github.com/copromatic/pipedrive-bundle",
   "license": "GPL-3.0",
   "authors": [
     {
